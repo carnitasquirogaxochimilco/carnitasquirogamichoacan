@@ -90,7 +90,7 @@ body {
     font-size: 25px;
 }
 
-a[href="/"] {
+a[href="#top"] {
     color: #dee2e3;
     font-weight: bold;
     /* font-family: 'Abril Fatface', cursive; */
